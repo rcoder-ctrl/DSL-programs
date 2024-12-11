@@ -10,7 +10,6 @@ b) Compute total number of members of club
 c) Display members
 d) Display list in reverse order using recursion
 e) Two linked lists exists for two divisions. Concatenate two lists
-f) Merge two sorted singly linked lists.
 
 Objectives:
 1. To understand concept of OOP.
